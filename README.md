@@ -1,2 +1,0 @@
-# dentabiome
-Static site

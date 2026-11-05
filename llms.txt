@@ -1,0 +1,26 @@
+# DentaBiome
+
+> DentaBiome is a Oral Health Supplement. DentaBiome is a natural oral health supplement built around advanced postbiotics, plant-based ingredients and supportive compounds. Rather than scrubbing or masking, it works from the inside as a daily capsule routine aimed at supporting enamel health and the balance of your oral environment. The formula is positioned as a complement to brushing and flossing — a simple once-a-day addition for people who want to be proactive about the strength and resilience of their teeth.
+
+## Pages
+- [Home — overview, pricing and FAQ](https://dentabiome.onrender.com/)
+- [What DentaBiome is](https://dentabiome.onrender.com/what-is-product.html)
+- [How DentaBiome works](https://dentabiome.onrender.com/how-it-works.html)
+- [DentaBiome ingredients, explained individually](https://dentabiome.onrender.com/ingredients.html)
+- [DentaBiome benefits](https://dentabiome.onrender.com/benefits.html)
+- [DentaBiome customer reviews](https://dentabiome.onrender.com/reviews.html)
+- [DentaBiome frequently asked questions](https://dentabiome.onrender.com/faq.html)
+
+## Blog
+- [What To Know Before Trying DentaBiome](https://dentabiome.onrender.com/blog/what-to-know-before-trying.html): A clear, honest look at DentaBiome — what it contains, how it is used, what it costs, and the guarantee behind it — before you decide to order.
+- [How To Read A Supplement Label](https://dentabiome.onrender.com/blog/how-to-read-a-supplement-label.html): Serving size, proprietary blends and other ingredients explained — using DentaBiome's own label as a real example of what to look for.
+- [DentaBiome: An Honest Review](https://dentabiome.onrender.com/blog/dentabiome-honest-review.html): An honest look at DentaBiome — what it claims to do, what it actually contains, what it costs, and who it is realistically a good fit for.
+- [Postbiotic Complex vs Calcium (plant-sourced): What Each Does In DentaBiome](https://dentabiome.onrender.com/blog/postbiotic-complex-vs-calcium-plant-sourced.html): Postbiotic Complex and Calcium (plant-sourced) are both in DentaBiome but play different roles — here is what each one actually does in the formula.
+- [Daily Habits That Complement DentaBiome](https://dentabiome.onrender.com/blog/daily-habits-that-complement-it.html): Simple daily habits — hydration, timing, consistency — that pair well with DentaBiome as part of a oral health routine.
+- [DentaBiome FAQ: Dosage, Timing, Who Should Skip It](https://dentabiome.onrender.com/blog/dentabiome-faq.html): Common questions about DentaBiome — dosage, timing, the guarantee, and who should skip it — answered directly.
+- [Terms of Use](https://dentabiome.onrender.com/terms.html)
+- [Privacy Policy](https://dentabiome.onrender.com/privacy-policy.html)
+- [Disclaimer](https://dentabiome.onrender.com/disclaimer.html)
+- [Refund Policy](https://dentabiome.onrender.com/refund-policy.html)
+- [About Us](https://dentabiome.onrender.com/about.html)
+- [Contact Us](https://dentabiome.onrender.com/contact.html)
